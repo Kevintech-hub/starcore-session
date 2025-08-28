@@ -68,13 +68,13 @@ router.get('/', async (req, res) => {
 
 ╔═
 ╟   『 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 & 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 』  
-╟  🎥 𝐘𝐨𝐮𝐓𝐮𝐛𝐞: youtube.com/@malvintech2  
-╟  👑 𝐎𝐰𝐧𝐞𝐫: 263714757857  
+╟   
+╟  👑 𝐎𝐰𝐧𝐞𝐫: 256742932677
 ╟  💻 𝐑𝐞𝐩𝐨: github.com/XdKing2/Star-xd
-╟  💻 𝐑𝐞𝐩𝐨: github.com/XdKing2/MALVIN-XD  
-╟  👥 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: https://chat.whatsapp.com/Dx7HbtW7Cf12iCVjJBpD0x?mode=ac_t 
-╟  📢 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029VbB3YxTDJ6H15SKoBv3S 
-╟  📸 𝐈𝐧𝐬𝐭𝐚: instagram.com/techlord01  
+╟  💻 𝐑𝐞𝐩𝐨: https://gitub/Kevinhub/vinic-Xmd- 
+╟  👥 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: https://chat.whatsapp.com/IixDQqcKOuE8eKGHmQqUod?mode=ems_copy_c
+╟  📢 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029Vb6eR1r05MUgYul6Pc2W 
+╟   
 ╰  
 ✦⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅✦  
    𝐄𝐍𝐉𝐎𝐘 𝐒𝐓𝐀𝐑-𝐗𝐃!  
